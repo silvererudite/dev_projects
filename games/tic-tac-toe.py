@@ -10,7 +10,4 @@ def is_empty():
 
 def winning_state():
   if move == 3:
-    
-
-
-
+    pass
